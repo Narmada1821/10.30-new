@@ -12,3 +12,8 @@ Git hub (central repo):
 git remote add origin githuburl
 git push origin branchname
 git pull origin branchname
+MAVEN
+Maven is a open source java based build tool.
+Maven can do compilation and package.
+Compile: Conversion of high level language (programming ) to machine language
+(binary format 0&1).
